@@ -1,4 +1,4 @@
-package spring.petproject.customer;
+package spring.petproject.customer.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import spring.petproject.customer.entity.Customer;

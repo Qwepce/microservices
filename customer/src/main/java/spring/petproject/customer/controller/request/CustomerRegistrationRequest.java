@@ -1,4 +1,4 @@
-package spring.petproject.customer.controller.requests;
+package spring.petproject.customer.controller.request;
 
 public record CustomerRegistrationRequest(
         String firstName,
