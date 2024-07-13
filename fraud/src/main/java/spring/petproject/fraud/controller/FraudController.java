@@ -3,7 +3,7 @@ package spring.petproject.fraud.controller;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
-import spring.petproject.fraud.controller.response.FraudCheckResponse;
+import spring.petproject.clients.fraud.FraudCheckResponse;
 import spring.petproject.fraud.service.FraudCheckService;
 
 @RestController

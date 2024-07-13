@@ -1,4 +1,4 @@
-package spring.petproject.fraud.controller.response;
+package spring.petproject.clients.fraud;
 
 public record FraudCheckResponse(Boolean isFraudster) {
 }
